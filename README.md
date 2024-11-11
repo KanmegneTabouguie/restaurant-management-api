@@ -40,7 +40,7 @@ Ensure you have the following software installed on your system:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/restaurant-management-api.git
+   git clone https://github.com/KanmegneTabouguie/restaurant-management-api.git
    ```
 
 2. **Navigate to the Project Directory**
